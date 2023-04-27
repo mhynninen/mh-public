@@ -2,1529 +2,1529 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maija Hynninen</title>
-    <link>http://example.org/</link>
+    <link>https://mhynninen.github.io/</link>
     <description>Recent content on Maija Hynninen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Mar 2023 17:14:00 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Mar 2023 17:14:00 +0200</lastBuildDate><atom:link href="https://mhynninen.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New Website Launched</title>
-      <link>http://example.org/news/new-website-launched/</link>
+      <link>https://mhynninen.github.io/news/new-website-launched/</link>
       <pubDate>Fri, 17 Mar 2023 17:14:00 +0200</pubDate>
       
-      <guid>http://example.org/news/new-website-launched/</guid>
+      <guid>https://mhynninen.github.io/news/new-website-launched/</guid>
       <description>Spring is the time of transformation and change! And so, my website went through a transformation returning in its new</description>
     </item>
     
     <item>
       <title>...sicut aurora procedit</title>
-      <link>http://example.org/events/2014/jul-414/</link>
+      <link>https://mhynninen.github.io/events/2014/jul-414/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2014/jul-414/</guid>
+      <guid>https://mhynninen.github.io/events/2014/jul-414/</guid>
       <description></description>
     </item>
     
     <item>
       <title>...sicut aurora procedit</title>
-      <link>http://example.org/events/2015/nov-2315/</link>
+      <link>https://mhynninen.github.io/events/2015/nov-2315/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2015/nov-2315/</guid>
+      <guid>https://mhynninen.github.io/events/2015/nov-2315/</guid>
       <description></description>
     </item>
     
     <item>
       <title>...sicut aurora procedit</title>
-      <link>http://example.org/events/2015/sep-1315/</link>
+      <link>https://mhynninen.github.io/events/2015/sep-1315/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2015/sep-1315/</guid>
+      <guid>https://mhynninen.github.io/events/2015/sep-1315/</guid>
       <description></description>
     </item>
     
     <item>
       <title>...sicut aurora procedit</title>
-      <link>http://example.org/events/2015/sep-1915_2/</link>
+      <link>https://mhynninen.github.io/events/2015/sep-1915_2/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2015/sep-1915_2/</guid>
+      <guid>https://mhynninen.github.io/events/2015/sep-1915_2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>...sicut aurora procedit</title>
-      <link>http://example.org/events/2016/mar-1816/</link>
+      <link>https://mhynninen.github.io/events/2016/mar-1816/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2016/mar-1816/</guid>
+      <guid>https://mhynninen.github.io/events/2016/mar-1816/</guid>
       <description></description>
     </item>
     
     <item>
       <title>...sicut aurora procedit</title>
-      <link>http://example.org/events/2016/mar-1916/</link>
+      <link>https://mhynninen.github.io/events/2016/mar-1916/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2016/mar-1916/</guid>
+      <guid>https://mhynninen.github.io/events/2016/mar-1916/</guid>
       <description></description>
     </item>
     
     <item>
       <title>...sicut aurora procedit</title>
-      <link>http://example.org/events/2017/jun-2317/</link>
+      <link>https://mhynninen.github.io/events/2017/jun-2317/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2017/jun-2317/</guid>
+      <guid>https://mhynninen.github.io/events/2017/jun-2317/</guid>
       <description></description>
     </item>
     
     <item>
       <title>...sicut aurora procedit</title>
-      <link>http://example.org/events/2018/may-1818/</link>
+      <link>https://mhynninen.github.io/events/2018/may-1818/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2018/may-1818/</guid>
+      <guid>https://mhynninen.github.io/events/2018/may-1818/</guid>
       <description></description>
     </item>
     
     <item>
       <title>...sicut aurora procedit</title>
-      <link>http://example.org/events/2019/oct-2919/</link>
+      <link>https://mhynninen.github.io/events/2019/oct-2919/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2019/oct-2919/</guid>
+      <guid>https://mhynninen.github.io/events/2019/oct-2919/</guid>
       <description></description>
     </item>
     
     <item>
       <title>...sicut aurora procedit</title>
-      <link>http://example.org/events/2022/nov-1822/</link>
+      <link>https://mhynninen.github.io/events/2022/nov-1822/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2022/nov-1822/</guid>
+      <guid>https://mhynninen.github.io/events/2022/nov-1822/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Aina on tänään - It is always today</title>
-      <link>http://example.org/events/2016/sep-716/</link>
+      <link>https://mhynninen.github.io/events/2016/sep-716/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2016/sep-716/</guid>
+      <guid>https://mhynninen.github.io/events/2016/sep-716/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Aina on tänään - It is always today</title>
-      <link>http://example.org/events/2021/may-2321/</link>
+      <link>https://mhynninen.github.io/events/2021/may-2321/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2021/may-2321/</guid>
+      <guid>https://mhynninen.github.io/events/2021/may-2321/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Après tel février</title>
-      <link>http://example.org/events/2013/apr-613/</link>
+      <link>https://mhynninen.github.io/events/2013/apr-613/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2013/apr-613/</guid>
+      <guid>https://mhynninen.github.io/events/2013/apr-613/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Birdie</title>
-      <link>http://example.org/events/2016/apr-116/</link>
+      <link>https://mhynninen.github.io/events/2016/apr-116/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2016/apr-116/</guid>
+      <guid>https://mhynninen.github.io/events/2016/apr-116/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Borrowed Tunes: 1. Dead Man Theme</title>
-      <link>http://example.org/events/2011/nov-1411/</link>
+      <link>https://mhynninen.github.io/events/2011/nov-1411/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2011/nov-1411/</guid>
+      <guid>https://mhynninen.github.io/events/2011/nov-1411/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Borrowed Tunes: 1. Dead Man Theme</title>
-      <link>http://example.org/events/2013/aug-2713/</link>
+      <link>https://mhynninen.github.io/events/2013/aug-2713/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2013/aug-2713/</guid>
+      <guid>https://mhynninen.github.io/events/2013/aug-2713/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Borrowed Tunes: 1. Dead Man Theme</title>
-      <link>http://example.org/events/2013/nov-2713/</link>
+      <link>https://mhynninen.github.io/events/2013/nov-2713/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2013/nov-2713/</guid>
+      <guid>https://mhynninen.github.io/events/2013/nov-2713/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Borrowed Tunes: 1. Dead Man Theme</title>
-      <link>http://example.org/events/2014/jan-2414/</link>
+      <link>https://mhynninen.github.io/events/2014/jan-2414/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2014/jan-2414/</guid>
+      <guid>https://mhynninen.github.io/events/2014/jan-2414/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Borrowed Tunes: 1. Dead Man Theme</title>
-      <link>http://example.org/events/2014/sep-1714/</link>
+      <link>https://mhynninen.github.io/events/2014/sep-1714/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2014/sep-1714/</guid>
+      <guid>https://mhynninen.github.io/events/2014/sep-1714/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Borrowed Tunes: 1. Dead Man Theme</title>
-      <link>http://example.org/events/2019/mar-1419/</link>
+      <link>https://mhynninen.github.io/events/2019/mar-1419/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2019/mar-1419/</guid>
+      <guid>https://mhynninen.github.io/events/2019/mar-1419/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deux Mondes</title>
-      <link>http://example.org/events/2013/jul-413/</link>
+      <link>https://mhynninen.github.io/events/2013/jul-413/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2013/jul-413/</guid>
+      <guid>https://mhynninen.github.io/events/2013/jul-413/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deux Mondes</title>
-      <link>http://example.org/events/2021/oct-2221/</link>
+      <link>https://mhynninen.github.io/events/2021/oct-2221/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2021/oct-2221/</guid>
+      <guid>https://mhynninen.github.io/events/2021/oct-2221/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deux Mondes</title>
-      <link>http://example.org/events/2022/sep-2522/</link>
+      <link>https://mhynninen.github.io/events/2022/sep-2522/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2022/sep-2522/</guid>
+      <guid>https://mhynninen.github.io/events/2022/sep-2522/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deux Mondes, 2. movement</title>
-      <link>http://example.org/events/2022/jun-322/</link>
+      <link>https://mhynninen.github.io/events/2022/jun-322/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2022/jun-322/</guid>
+      <guid>https://mhynninen.github.io/events/2022/jun-322/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deux Mondes, 2. movement</title>
-      <link>http://example.org/events/2022/may-2022/</link>
+      <link>https://mhynninen.github.io/events/2022/may-2022/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2022/may-2022/</guid>
+      <guid>https://mhynninen.github.io/events/2022/may-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Earthship</title>
-      <link>http://example.org/events/2015/sep-2215/</link>
+      <link>https://mhynninen.github.io/events/2015/sep-2215/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2015/sep-2215/</guid>
+      <guid>https://mhynninen.github.io/events/2015/sep-2215/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Earthship</title>
-      <link>http://example.org/events/2015/sep-2315/</link>
+      <link>https://mhynninen.github.io/events/2015/sep-2315/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2015/sep-2315/</guid>
+      <guid>https://mhynninen.github.io/events/2015/sep-2315/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Earthship</title>
-      <link>http://example.org/events/2016/may-2915/</link>
+      <link>https://mhynninen.github.io/events/2016/may-2915/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2016/may-2915/</guid>
+      <guid>https://mhynninen.github.io/events/2016/may-2915/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Earthship</title>
-      <link>http://example.org/events/2016/may-916/</link>
+      <link>https://mhynninen.github.io/events/2016/may-916/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2016/may-916/</guid>
+      <guid>https://mhynninen.github.io/events/2016/may-916/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Electric Shocks</title>
-      <link>http://example.org/events/2015/sep-1815/</link>
+      <link>https://mhynninen.github.io/events/2015/sep-1815/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2015/sep-1815/</guid>
+      <guid>https://mhynninen.github.io/events/2015/sep-1815/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Electric Shocks</title>
-      <link>http://example.org/events/2015/sep-1915/</link>
+      <link>https://mhynninen.github.io/events/2015/sep-1915/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2015/sep-1915/</guid>
+      <guid>https://mhynninen.github.io/events/2015/sep-1915/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Electric Shocks</title>
-      <link>http://example.org/events/2015/sep-2015/</link>
+      <link>https://mhynninen.github.io/events/2015/sep-2015/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2015/sep-2015/</guid>
+      <guid>https://mhynninen.github.io/events/2015/sep-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flow</title>
-      <link>http://example.org/events/2011/jul-1311/</link>
+      <link>https://mhynninen.github.io/events/2011/jul-1311/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2011/jul-1311/</guid>
+      <guid>https://mhynninen.github.io/events/2011/jul-1311/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flutterings - POSTPONED</title>
-      <link>http://example.org/events/2020/aug-1120/</link>
+      <link>https://mhynninen.github.io/events/2020/aug-1120/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2020/aug-1120/</guid>
+      <guid>https://mhynninen.github.io/events/2020/aug-1120/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Freedom from Fear</title>
-      <link>http://example.org/events/2017/apr-1217/</link>
+      <link>https://mhynninen.github.io/events/2017/apr-1217/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2017/apr-1217/</guid>
+      <guid>https://mhynninen.github.io/events/2017/apr-1217/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Freedom from Fear</title>
-      <link>http://example.org/events/2017/may-817/</link>
+      <link>https://mhynninen.github.io/events/2017/may-817/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2017/may-817/</guid>
+      <guid>https://mhynninen.github.io/events/2017/may-817/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Freedom from Fear</title>
-      <link>http://example.org/events/2018/jun-2918/</link>
+      <link>https://mhynninen.github.io/events/2018/jun-2918/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2018/jun-2918/</guid>
+      <guid>https://mhynninen.github.io/events/2018/jun-2918/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Freedom from Fear</title>
-      <link>http://example.org/events/2018/nov-818/</link>
+      <link>https://mhynninen.github.io/events/2018/nov-818/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2018/nov-818/</guid>
+      <guid>https://mhynninen.github.io/events/2018/nov-818/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Freedom from Fear</title>
-      <link>http://example.org/events/2019/nov-919/</link>
+      <link>https://mhynninen.github.io/events/2019/nov-919/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2019/nov-919/</guid>
+      <guid>https://mhynninen.github.io/events/2019/nov-919/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Freedom from Fear</title>
-      <link>http://example.org/events/2019/oct-1419/</link>
+      <link>https://mhynninen.github.io/events/2019/oct-1419/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2019/oct-1419/</guid>
+      <guid>https://mhynninen.github.io/events/2019/oct-1419/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Freedom from Fear</title>
-      <link>http://example.org/events/2022/nov-1222/</link>
+      <link>https://mhynninen.github.io/events/2022/nov-1222/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2022/nov-1222/</guid>
+      <guid>https://mhynninen.github.io/events/2022/nov-1222/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Glow within</title>
-      <link>http://example.org/events/2018/mar-1918/</link>
+      <link>https://mhynninen.github.io/events/2018/mar-1918/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2018/mar-1918/</guid>
+      <guid>https://mhynninen.github.io/events/2018/mar-1918/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Glow within</title>
-      <link>http://example.org/events/2018/sep-3018/</link>
+      <link>https://mhynninen.github.io/events/2018/sep-3018/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2018/sep-3018/</guid>
+      <guid>https://mhynninen.github.io/events/2018/sep-3018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Glow within</title>
-      <link>http://example.org/events/2020/oct-2320/</link>
+      <link>https://mhynninen.github.io/events/2020/oct-2320/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2020/oct-2320/</guid>
+      <guid>https://mhynninen.github.io/events/2020/oct-2320/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Glow within</title>
-      <link>http://example.org/events/2020/oct-520/</link>
+      <link>https://mhynninen.github.io/events/2020/oct-520/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2020/oct-520/</guid>
+      <guid>https://mhynninen.github.io/events/2020/oct-520/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Glow within - POSTPONED</title>
-      <link>http://example.org/events/2020/apr-2420/</link>
+      <link>https://mhynninen.github.io/events/2020/apr-2420/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2020/apr-2420/</guid>
+      <guid>https://mhynninen.github.io/events/2020/apr-2420/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hear/imagine</title>
-      <link>http://example.org/events/2010/sep-210/</link>
+      <link>https://mhynninen.github.io/events/2010/sep-210/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2010/sep-210/</guid>
+      <guid>https://mhynninen.github.io/events/2010/sep-210/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Iced up</title>
-      <link>http://example.org/events/2016/may-416/</link>
+      <link>https://mhynninen.github.io/events/2016/may-416/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2016/may-416/</guid>
+      <guid>https://mhynninen.github.io/events/2016/may-416/</guid>
       <description></description>
     </item>
     
     <item>
       <title>In Case of Emergency</title>
-      <link>http://example.org/events/2009/sep-2509/</link>
+      <link>https://mhynninen.github.io/events/2009/sep-2509/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2009/sep-2509/</guid>
+      <guid>https://mhynninen.github.io/events/2009/sep-2509/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ina Donna</title>
-      <link>http://example.org/events/2019/apr-1419/</link>
+      <link>https://mhynninen.github.io/events/2019/apr-1419/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2019/apr-1419/</guid>
+      <guid>https://mhynninen.github.io/events/2019/apr-1419/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Incandescence</title>
-      <link>http://example.org/events/2021/feb-1021/</link>
+      <link>https://mhynninen.github.io/events/2021/feb-1021/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2021/feb-1021/</guid>
+      <guid>https://mhynninen.github.io/events/2021/feb-1021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Incandescence - CANCELLED</title>
-      <link>http://example.org/events/2021/feb-421/</link>
+      <link>https://mhynninen.github.io/events/2021/feb-421/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2021/feb-421/</guid>
+      <guid>https://mhynninen.github.io/events/2021/feb-421/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interpolations 2</title>
-      <link>http://example.org/events/2010/apr-1810/</link>
+      <link>https://mhynninen.github.io/events/2010/apr-1810/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2010/apr-1810/</guid>
+      <guid>https://mhynninen.github.io/events/2010/apr-1810/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interpolations 2</title>
-      <link>http://example.org/events/2012/jan-2712/</link>
+      <link>https://mhynninen.github.io/events/2012/jan-2712/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2012/jan-2712/</guid>
+      <guid>https://mhynninen.github.io/events/2012/jan-2712/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interpolations 2</title>
-      <link>http://example.org/events/2014/jan-1914/</link>
+      <link>https://mhynninen.github.io/events/2014/jan-1914/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2014/jan-1914/</guid>
+      <guid>https://mhynninen.github.io/events/2014/jan-1914/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Island - CANCELLED</title>
-      <link>http://example.org/events/2022/oct-1622/</link>
+      <link>https://mhynninen.github.io/events/2022/oct-1622/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2022/oct-1622/</guid>
+      <guid>https://mhynninen.github.io/events/2022/oct-1622/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Island - CANCELLED</title>
-      <link>http://example.org/events/2022/oct-322/</link>
+      <link>https://mhynninen.github.io/events/2022/oct-322/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2022/oct-322/</guid>
+      <guid>https://mhynninen.github.io/events/2022/oct-322/</guid>
       <description></description>
     </item>
     
     <item>
       <title>It is always today</title>
-      <link>http://example.org/events/2019/aug-2119/</link>
+      <link>https://mhynninen.github.io/events/2019/aug-2119/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2019/aug-2119/</guid>
+      <guid>https://mhynninen.github.io/events/2019/aug-2119/</guid>
       <description></description>
     </item>
     
     <item>
       <title>It is always today</title>
-      <link>http://example.org/events/2019/jan-419/</link>
+      <link>https://mhynninen.github.io/events/2019/jan-419/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2019/jan-419/</guid>
+      <guid>https://mhynninen.github.io/events/2019/jan-419/</guid>
       <description></description>
     </item>
     
     <item>
       <title>It is always today</title>
-      <link>http://example.org/events/2019/oct-2119/</link>
+      <link>https://mhynninen.github.io/events/2019/oct-2119/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2019/oct-2119/</guid>
+      <guid>https://mhynninen.github.io/events/2019/oct-2119/</guid>
       <description></description>
     </item>
     
     <item>
       <title>It is always today</title>
-      <link>http://example.org/events/2021/nov-1621/</link>
+      <link>https://mhynninen.github.io/events/2021/nov-1621/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2021/nov-1621/</guid>
+      <guid>https://mhynninen.github.io/events/2021/nov-1621/</guid>
       <description></description>
     </item>
     
     <item>
       <title>It is always today</title>
-      <link>http://example.org/events/2022/jun-1022/</link>
+      <link>https://mhynninen.github.io/events/2022/jun-1022/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2022/jun-1022/</guid>
+      <guid>https://mhynninen.github.io/events/2022/jun-1022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>It is always today</title>
-      <link>http://example.org/events/2022/jun-1122/</link>
+      <link>https://mhynninen.github.io/events/2022/jun-1122/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2022/jun-1122/</guid>
+      <guid>https://mhynninen.github.io/events/2022/jun-1122/</guid>
       <description></description>
     </item>
     
     <item>
       <title>It is always today</title>
-      <link>http://example.org/events/2022/oct-1222/</link>
+      <link>https://mhynninen.github.io/events/2022/oct-1222/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2022/oct-1222/</guid>
+      <guid>https://mhynninen.github.io/events/2022/oct-1222/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Journal d&#39;un usager de l&#39;espace</title>
-      <link>http://example.org/events/2021/sep-1721/</link>
+      <link>https://mhynninen.github.io/events/2021/sep-1721/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2021/sep-1721/</guid>
+      <guid>https://mhynninen.github.io/events/2021/sep-1721/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Journal d&#39;un usager de l&#39;espace</title>
-      <link>http://example.org/events/2022/feb-2622/</link>
+      <link>https://mhynninen.github.io/events/2022/feb-2622/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2022/feb-2622/</guid>
+      <guid>https://mhynninen.github.io/events/2022/feb-2622/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Journal d&#39;un usager de l&#39;espace</title>
-      <link>http://example.org/events/2022/oct-122/</link>
+      <link>https://mhynninen.github.io/events/2022/oct-122/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2022/oct-122/</guid>
+      <guid>https://mhynninen.github.io/events/2022/oct-122/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kaiku 2</title>
-      <link>http://example.org/events/2010/apr-1710/</link>
+      <link>https://mhynninen.github.io/events/2010/apr-1710/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2010/apr-1710/</guid>
+      <guid>https://mhynninen.github.io/events/2010/apr-1710/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kaiku 2</title>
-      <link>http://example.org/events/2010/oct-2110/</link>
+      <link>https://mhynninen.github.io/events/2010/oct-2110/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2010/oct-2110/</guid>
+      <guid>https://mhynninen.github.io/events/2010/oct-2110/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kiipeillen</title>
-      <link>http://example.org/events/2019/apr-119/</link>
+      <link>https://mhynninen.github.io/events/2019/apr-119/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2019/apr-119/</guid>
+      <guid>https://mhynninen.github.io/events/2019/apr-119/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Les arbres sans feuilles</title>
-      <link>http://example.org/events/2013/apr-513/</link>
+      <link>https://mhynninen.github.io/events/2013/apr-513/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2013/apr-513/</guid>
+      <guid>https://mhynninen.github.io/events/2013/apr-513/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Les arbres sans feuilles</title>
-      <link>http://example.org/events/2013/may-613/</link>
+      <link>https://mhynninen.github.io/events/2013/may-613/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2013/may-613/</guid>
+      <guid>https://mhynninen.github.io/events/2013/may-613/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Les arbres sans feuilles</title>
-      <link>http://example.org/events/2014/apr-1414/</link>
+      <link>https://mhynninen.github.io/events/2014/apr-1414/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2014/apr-1414/</guid>
+      <guid>https://mhynninen.github.io/events/2014/apr-1414/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Les arbres sans feuilles</title>
-      <link>http://example.org/events/2019/feb-1919/</link>
+      <link>https://mhynninen.github.io/events/2019/feb-1919/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2019/feb-1919/</guid>
+      <guid>https://mhynninen.github.io/events/2019/feb-1919/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lightness of the Days</title>
-      <link>http://example.org/events/2017/nov-1417/</link>
+      <link>https://mhynninen.github.io/events/2017/nov-1417/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2017/nov-1417/</guid>
+      <guid>https://mhynninen.github.io/events/2017/nov-1417/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Little wings of gold</title>
-      <link>http://example.org/events/2020/sep-1320/</link>
+      <link>https://mhynninen.github.io/events/2020/sep-1320/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2020/sep-1320/</guid>
+      <guid>https://mhynninen.github.io/events/2020/sep-1320/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mask the absence</title>
-      <link>http://example.org/events/2021/jul-2221/</link>
+      <link>https://mhynninen.github.io/events/2021/jul-2221/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2021/jul-2221/</guid>
+      <guid>https://mhynninen.github.io/events/2021/jul-2221/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mielen tasapainolajit</title>
-      <link>http://example.org/events/2012/apr-1812/</link>
+      <link>https://mhynninen.github.io/events/2012/apr-1812/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2012/apr-1812/</guid>
+      <guid>https://mhynninen.github.io/events/2012/apr-1812/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mielen tasapainolajit</title>
-      <link>http://example.org/events/2014/apr-914/</link>
+      <link>https://mhynninen.github.io/events/2014/apr-914/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2014/apr-914/</guid>
+      <guid>https://mhynninen.github.io/events/2014/apr-914/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mielen tasapainolajit</title>
-      <link>http://example.org/events/2014/jun-1414/</link>
+      <link>https://mhynninen.github.io/events/2014/jun-1414/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2014/jun-1414/</guid>
+      <guid>https://mhynninen.github.io/events/2014/jun-1414/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mielen tasapainolajit</title>
-      <link>http://example.org/events/2014/may-914/</link>
+      <link>https://mhynninen.github.io/events/2014/may-914/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2014/may-914/</guid>
+      <guid>https://mhynninen.github.io/events/2014/may-914/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mielen tasapainolajit</title>
-      <link>http://example.org/events/2014/oct-2414/</link>
+      <link>https://mhynninen.github.io/events/2014/oct-2414/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2014/oct-2414/</guid>
+      <guid>https://mhynninen.github.io/events/2014/oct-2414/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mielen tasapainolajit</title>
-      <link>http://example.org/events/2019/jul-3019/</link>
+      <link>https://mhynninen.github.io/events/2019/jul-3019/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2019/jul-3019/</guid>
+      <guid>https://mhynninen.github.io/events/2019/jul-3019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Minne se päättyy</title>
-      <link>http://example.org/events/2018/jul-718/</link>
+      <link>https://mhynninen.github.io/events/2018/jul-718/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2018/jul-718/</guid>
+      <guid>https://mhynninen.github.io/events/2018/jul-718/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mobiles</title>
-      <link>http://example.org/events/2022/may-922/</link>
+      <link>https://mhynninen.github.io/events/2022/may-922/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2022/may-922/</guid>
+      <guid>https://mhynninen.github.io/events/2022/may-922/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiple performances</title>
-      <link>http://example.org/events/2016/may-3116/</link>
+      <link>https://mhynninen.github.io/events/2016/may-3116/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2016/may-3116/</guid>
+      <guid>https://mhynninen.github.io/events/2016/may-3116/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New Holland</title>
-      <link>http://example.org/events/2013/dec-1813/</link>
+      <link>https://mhynninen.github.io/events/2013/dec-1813/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2013/dec-1813/</guid>
+      <guid>https://mhynninen.github.io/events/2013/dec-1813/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New Holland</title>
-      <link>http://example.org/events/2020/mar-520/</link>
+      <link>https://mhynninen.github.io/events/2020/mar-520/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2020/mar-520/</guid>
+      <guid>https://mhynninen.github.io/events/2020/mar-520/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New Holland</title>
-      <link>http://example.org/events/2021/nov-421/</link>
+      <link>https://mhynninen.github.io/events/2021/nov-421/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2021/nov-421/</guid>
+      <guid>https://mhynninen.github.io/events/2021/nov-421/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nine-channeled Pearl</title>
-      <link>http://example.org/events/2022/apr-1622/</link>
+      <link>https://mhynninen.github.io/events/2022/apr-1622/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2022/apr-1622/</guid>
+      <guid>https://mhynninen.github.io/events/2022/apr-1622/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Orlando-fragments</title>
-      <link>http://example.org/events/2010/jul-810/</link>
+      <link>https://mhynninen.github.io/events/2010/jul-810/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2010/jul-810/</guid>
+      <guid>https://mhynninen.github.io/events/2010/jul-810/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pepper&#39;s ghost</title>
-      <link>http://example.org/events/2009/nov-309/</link>
+      <link>https://mhynninen.github.io/events/2009/nov-309/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2009/nov-309/</guid>
+      <guid>https://mhynninen.github.io/events/2009/nov-309/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pepper&#39;s ghost</title>
-      <link>http://example.org/events/2011/apr-1011/</link>
+      <link>https://mhynninen.github.io/events/2011/apr-1011/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2011/apr-1011/</guid>
+      <guid>https://mhynninen.github.io/events/2011/apr-1011/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rebound: 1. bounce</title>
-      <link>http://example.org/events/2020/nov-120/</link>
+      <link>https://mhynninen.github.io/events/2020/nov-120/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2020/nov-120/</guid>
+      <guid>https://mhynninen.github.io/events/2020/nov-120/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slutförvaringen - Kuinka puoliintuminen meitä liikuttaa</title>
-      <link>http://example.org/events/2009/feb-1409/</link>
+      <link>https://mhynninen.github.io/events/2009/feb-1409/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2009/feb-1409/</guid>
+      <guid>https://mhynninen.github.io/events/2009/feb-1409/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slutförvaringen – Kuinka puoliintuminen meitä liikuttaa</title>
-      <link>http://example.org/events/2010/sep-2510/</link>
+      <link>https://mhynninen.github.io/events/2010/sep-2510/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2010/sep-2510/</guid>
+      <guid>https://mhynninen.github.io/events/2010/sep-2510/</guid>
       <description></description>
     </item>
     
     <item>
       <title>soaring</title>
-      <link>http://example.org/events/2011/jul-2911/</link>
+      <link>https://mhynninen.github.io/events/2011/jul-2911/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2011/jul-2911/</guid>
+      <guid>https://mhynninen.github.io/events/2011/jul-2911/</guid>
       <description></description>
     </item>
     
     <item>
       <title>soaring</title>
-      <link>http://example.org/events/2022/oct-1922/</link>
+      <link>https://mhynninen.github.io/events/2022/oct-1922/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2022/oct-1922/</guid>
+      <guid>https://mhynninen.github.io/events/2022/oct-1922/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solace</title>
-      <link>http://example.org/events/2022/dec-122/</link>
+      <link>https://mhynninen.github.io/events/2022/dec-122/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2022/dec-122/</guid>
+      <guid>https://mhynninen.github.io/events/2022/dec-122/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sormiharjoitus 1</title>
-      <link>http://example.org/events/2013/apr-2713/</link>
+      <link>https://mhynninen.github.io/events/2013/apr-2713/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2013/apr-2713/</guid>
+      <guid>https://mhynninen.github.io/events/2013/apr-2713/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tanssinko sinulle?</title>
-      <link>http://example.org/events/2022/jun-3022/</link>
+      <link>https://mhynninen.github.io/events/2022/jun-3022/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2022/jun-3022/</guid>
+      <guid>https://mhynninen.github.io/events/2022/jun-3022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Texture Notes: weak/strong</title>
-      <link>http://example.org/events/2020/jan-3020/</link>
+      <link>https://mhynninen.github.io/events/2020/jan-3020/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2020/jan-3020/</guid>
+      <guid>https://mhynninen.github.io/events/2020/jan-3020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Till fots jag gå genom solsystemen</title>
-      <link>http://example.org/events/2022/jun-3022_2/</link>
+      <link>https://mhynninen.github.io/events/2022/jun-3022_2/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2022/jun-3022_2/</guid>
+      <guid>https://mhynninen.github.io/events/2022/jun-3022_2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trois Mondes</title>
-      <link>http://example.org/events/2011/jan-3011/</link>
+      <link>https://mhynninen.github.io/events/2011/jan-3011/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2011/jan-3011/</guid>
+      <guid>https://mhynninen.github.io/events/2011/jan-3011/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trois Mondes, 2. movement</title>
-      <link>http://example.org/events/2022/aug-3122/</link>
+      <link>https://mhynninen.github.io/events/2022/aug-3122/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2022/aug-3122/</guid>
+      <guid>https://mhynninen.github.io/events/2022/aug-3122/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Turnings</title>
-      <link>http://example.org/events/2009/jun-309/</link>
+      <link>https://mhynninen.github.io/events/2009/jun-309/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2009/jun-309/</guid>
+      <guid>https://mhynninen.github.io/events/2009/jun-309/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unelma</title>
-      <link>http://example.org/events/2012/jun-912/</link>
+      <link>https://mhynninen.github.io/events/2012/jun-912/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2012/jun-912/</guid>
+      <guid>https://mhynninen.github.io/events/2012/jun-912/</guid>
       <description></description>
     </item>
     
     <item>
       <title>wind rustling through</title>
-      <link>http://example.org/events/2022/jun-2422/</link>
+      <link>https://mhynninen.github.io/events/2022/jun-2422/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2022/jun-2422/</guid>
+      <guid>https://mhynninen.github.io/events/2022/jun-2422/</guid>
       <description></description>
     </item>
     
     <item>
       <title>winnowing</title>
-      <link>http://example.org/events/2010/oct-3110/</link>
+      <link>https://mhynninen.github.io/events/2010/oct-3110/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2010/oct-3110/</guid>
+      <guid>https://mhynninen.github.io/events/2010/oct-3110/</guid>
       <description></description>
     </item>
     
     <item>
       <title>winnowing</title>
-      <link>http://example.org/events/2010/sep-2110/</link>
+      <link>https://mhynninen.github.io/events/2010/sep-2110/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2010/sep-2110/</guid>
+      <guid>https://mhynninen.github.io/events/2010/sep-2110/</guid>
       <description></description>
     </item>
     
     <item>
       <title>winnowing</title>
-      <link>http://example.org/events/2011/feb-711/</link>
+      <link>https://mhynninen.github.io/events/2011/feb-711/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2011/feb-711/</guid>
+      <guid>https://mhynninen.github.io/events/2011/feb-711/</guid>
       <description></description>
     </item>
     
     <item>
       <title>winnowing</title>
-      <link>http://example.org/events/2012/apr-212/</link>
+      <link>https://mhynninen.github.io/events/2012/apr-212/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2012/apr-212/</guid>
+      <guid>https://mhynninen.github.io/events/2012/apr-212/</guid>
       <description></description>
     </item>
     
     <item>
       <title>winnowing</title>
-      <link>http://example.org/events/2013/jun-1513/</link>
+      <link>https://mhynninen.github.io/events/2013/jun-1513/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2013/jun-1513/</guid>
+      <guid>https://mhynninen.github.io/events/2013/jun-1513/</guid>
       <description></description>
     </item>
     
     <item>
       <title>winnowing</title>
-      <link>http://example.org/events/2018/jul-2518/</link>
+      <link>https://mhynninen.github.io/events/2018/jul-2518/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2018/jul-2518/</guid>
+      <guid>https://mhynninen.github.io/events/2018/jul-2518/</guid>
       <description></description>
     </item>
     
     <item>
       <title>YO, Genesis</title>
-      <link>http://example.org/events/2014/may-2914/</link>
+      <link>https://mhynninen.github.io/events/2014/may-2914/</link>
       <pubDate>Sun, 01 Jan 2023 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2014/may-2914/</guid>
+      <guid>https://mhynninen.github.io/events/2014/may-2914/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Island</title>
-      <link>http://example.org/events/2023/apr-1023/</link>
+      <link>https://mhynninen.github.io/events/2023/apr-1023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/events/2023/apr-1023/</guid>
+      <guid>https://mhynninen.github.io/events/2023/apr-1023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Island</title>
-      <link>http://example.org/events/2023/apr-1723/</link>
+      <link>https://mhynninen.github.io/events/2023/apr-1723/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/events/2023/apr-1723/</guid>
+      <guid>https://mhynninen.github.io/events/2023/apr-1723/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Island</title>
-      <link>http://example.org/events/2023/jan-223/</link>
+      <link>https://mhynninen.github.io/events/2023/jan-223/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/events/2023/jan-223/</guid>
+      <guid>https://mhynninen.github.io/events/2023/jan-223/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Island</title>
-      <link>http://example.org/events/2023/mar-2623/</link>
+      <link>https://mhynninen.github.io/events/2023/mar-2623/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/events/2023/mar-2623/</guid>
+      <guid>https://mhynninen.github.io/events/2023/mar-2623/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Island</title>
-      <link>http://example.org/events/2023/mar-523/</link>
+      <link>https://mhynninen.github.io/events/2023/mar-523/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/events/2023/mar-523/</guid>
+      <guid>https://mhynninen.github.io/events/2023/mar-523/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rain Patterns</title>
-      <link>http://example.org/events/2023/feb-1123/</link>
+      <link>https://mhynninen.github.io/events/2023/feb-1123/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/events/2023/feb-1123/</guid>
+      <guid>https://mhynninen.github.io/events/2023/feb-1123/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rain Patterns</title>
-      <link>http://example.org/events/2023/jan-623/</link>
+      <link>https://mhynninen.github.io/events/2023/jan-623/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/events/2023/jan-623/</guid>
+      <guid>https://mhynninen.github.io/events/2023/jan-623/</guid>
       <description></description>
     </item>
     
     <item>
       <title>soaring</title>
-      <link>http://example.org/events/2023/apr-1023_2/</link>
+      <link>https://mhynninen.github.io/events/2023/apr-1023_2/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/events/2023/apr-1023_2/</guid>
+      <guid>https://mhynninen.github.io/events/2023/apr-1023_2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>soaring</title>
-      <link>http://example.org/events/2023/apr-1223/</link>
+      <link>https://mhynninen.github.io/events/2023/apr-1223/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/events/2023/apr-1223/</guid>
+      <guid>https://mhynninen.github.io/events/2023/apr-1223/</guid>
       <description></description>
     </item>
     
     <item>
       <title>soaring</title>
-      <link>http://example.org/events/2023/apr-623/</link>
+      <link>https://mhynninen.github.io/events/2023/apr-623/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/events/2023/apr-623/</guid>
+      <guid>https://mhynninen.github.io/events/2023/apr-623/</guid>
       <description></description>
     </item>
     
     <item>
       <title>soaring</title>
-      <link>http://example.org/events/2023/apr-723/</link>
+      <link>https://mhynninen.github.io/events/2023/apr-723/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/events/2023/apr-723/</guid>
+      <guid>https://mhynninen.github.io/events/2023/apr-723/</guid>
       <description></description>
     </item>
     
     <item>
       <title>soaring</title>
-      <link>http://example.org/events/2023/apr-823/</link>
+      <link>https://mhynninen.github.io/events/2023/apr-823/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/events/2023/apr-823/</guid>
+      <guid>https://mhynninen.github.io/events/2023/apr-823/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trois Mondes</title>
-      <link>http://example.org/events/2023/apr-1123/</link>
+      <link>https://mhynninen.github.io/events/2023/apr-1123/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/events/2023/apr-1123/</guid>
+      <guid>https://mhynninen.github.io/events/2023/apr-1123/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Highlights of 2022</title>
-      <link>http://example.org/news/highlights-of-2022/</link>
+      <link>https://mhynninen.github.io/news/highlights-of-2022/</link>
       <pubDate>Fri, 30 Dec 2022 13:32:54 +0600</pubDate>
       
-      <guid>http://example.org/news/highlights-of-2022/</guid>
+      <guid>https://mhynninen.github.io/news/highlights-of-2022/</guid>
       <description>In 2022 I&amp;hellip; was in residency at Cité International des Arts between January 1st and April 14th. was in residency</description>
     </item>
     
     <item>
       <title>Doctor of Philosophy</title>
-      <link>http://example.org/news/doctor-of-philosophy/</link>
+      <link>https://mhynninen.github.io/news/doctor-of-philosophy/</link>
       <pubDate>Mon, 16 May 2022 12:58:17 +0600</pubDate>
       
-      <guid>http://example.org/news/doctor-of-philosophy/</guid>
+      <guid>https://mhynninen.github.io/news/doctor-of-philosophy/</guid>
       <description>As of today, I officially hold a PhD from the Music Department at the University of California Berkeley as I</description>
     </item>
     
     <item>
       <title>Après tel février</title>
-      <link>http://example.org/events/2022/jan-2622/</link>
+      <link>https://mhynninen.github.io/events/2022/jan-2622/</link>
       <pubDate>Wed, 26 Jan 2022 23:59:59 +0000</pubDate>
       
-      <guid>http://example.org/events/2022/jan-2622/</guid>
+      <guid>https://mhynninen.github.io/events/2022/jan-2622/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mobiles</title>
-      <link>http://example.org/works/ensemble/mobiles/</link>
+      <link>https://mhynninen.github.io/works/ensemble/mobiles/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0600</pubDate>
       
-      <guid>http://example.org/works/ensemble/mobiles/</guid>
+      <guid>https://mhynninen.github.io/works/ensemble/mobiles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nine-channeled Pearl</title>
-      <link>http://example.org/works/chamber-music/nine-channeled-pearl/</link>
+      <link>https://mhynninen.github.io/works/chamber-music/nine-channeled-pearl/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0600</pubDate>
       
-      <guid>http://example.org/works/chamber-music/nine-channeled-pearl/</guid>
+      <guid>https://mhynninen.github.io/works/chamber-music/nine-channeled-pearl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solace</title>
-      <link>http://example.org/works/electroacoustic/solace/</link>
+      <link>https://mhynninen.github.io/works/electroacoustic/solace/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0600</pubDate>
       
-      <guid>http://example.org/works/electroacoustic/solace/</guid>
+      <guid>https://mhynninen.github.io/works/electroacoustic/solace/</guid>
       <description></description>
     </item>
     
     <item>
       <title>wind rustling through</title>
-      <link>http://example.org/works/solo-instrument/wind-rustling-through/</link>
+      <link>https://mhynninen.github.io/works/solo-instrument/wind-rustling-through/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0600</pubDate>
       
-      <guid>http://example.org/works/solo-instrument/wind-rustling-through/</guid>
+      <guid>https://mhynninen.github.io/works/solo-instrument/wind-rustling-through/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Highlights of 2021</title>
-      <link>http://example.org/news/highlights-of-2021/</link>
+      <link>https://mhynninen.github.io/news/highlights-of-2021/</link>
       <pubDate>Thu, 30 Dec 2021 13:36:06 +0600</pubDate>
       
-      <guid>http://example.org/news/highlights-of-2021/</guid>
+      <guid>https://mhynninen.github.io/news/highlights-of-2021/</guid>
       <description>In 2021 I&amp;hellip; was in residency at KAAI Theatre with HYOID Voices and Benjamin Vandewalle between 5th and 10th of</description>
     </item>
     
     <item>
       <title>Winner of the George Ladd Prix</title>
-      <link>http://example.org/news/winner-of-the-george-ladd-prix/</link>
+      <link>https://mhynninen.github.io/news/winner-of-the-george-ladd-prix/</link>
       <pubDate>Wed, 01 Sep 2021 13:40:00 +0600</pubDate>
       
-      <guid>http://example.org/news/winner-of-the-george-ladd-prix/</guid>
+      <guid>https://mhynninen.github.io/news/winner-of-the-george-ladd-prix/</guid>
       <description>I am happy to announce that I was selected as the winner of the George Ladd Prix de Paris by</description>
     </item>
     
     <item>
       <title>Island</title>
-      <link>http://example.org/works/solo-instrument/island/</link>
+      <link>https://mhynninen.github.io/works/solo-instrument/island/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0600</pubDate>
       
-      <guid>http://example.org/works/solo-instrument/island/</guid>
+      <guid>https://mhynninen.github.io/works/solo-instrument/island/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Journal d&#39;un usager de l&#39;espace</title>
-      <link>http://example.org/works/stage/journal-dun-usager-de-lespace/</link>
+      <link>https://mhynninen.github.io/works/stage/journal-dun-usager-de-lespace/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0600</pubDate>
       
-      <guid>http://example.org/works/stage/journal-dun-usager-de-lespace/</guid>
+      <guid>https://mhynninen.github.io/works/stage/journal-dun-usager-de-lespace/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mask the absence</title>
-      <link>http://example.org/works/chamber-music/mask-the-absence/</link>
+      <link>https://mhynninen.github.io/works/chamber-music/mask-the-absence/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0600</pubDate>
       
-      <guid>http://example.org/works/chamber-music/mask-the-absence/</guid>
+      <guid>https://mhynninen.github.io/works/chamber-music/mask-the-absence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Highlights of 2020</title>
-      <link>http://example.org/news/highlights-of-2020/</link>
+      <link>https://mhynninen.github.io/news/highlights-of-2020/</link>
       <pubDate>Wed, 30 Dec 2020 13:36:06 +0600</pubDate>
       
-      <guid>http://example.org/news/highlights-of-2020/</guid>
+      <guid>https://mhynninen.github.io/news/highlights-of-2020/</guid>
       <description>In 2020 I&amp;hellip; attended the Mixtur workshop masterclasses with Martin Matalon between 17th and 20th of September. was in residency</description>
     </item>
     
     <item>
       <title>in the universe everyth ng is a circle</title>
-      <link>http://example.org/works/electroacoustic/in-the-universe-everyth-ng-is-a-circle/</link>
+      <link>https://mhynninen.github.io/works/electroacoustic/in-the-universe-everyth-ng-is-a-circle/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0600</pubDate>
       
-      <guid>http://example.org/works/electroacoustic/in-the-universe-everyth-ng-is-a-circle/</guid>
+      <guid>https://mhynninen.github.io/works/electroacoustic/in-the-universe-everyth-ng-is-a-circle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Highlights of 2019</title>
-      <link>http://example.org/news/highlights-of-2019/</link>
+      <link>https://mhynninen.github.io/news/highlights-of-2019/</link>
       <pubDate>Mon, 30 Dec 2019 13:36:06 +0600</pubDate>
       
-      <guid>http://example.org/news/highlights-of-2019/</guid>
+      <guid>https://mhynninen.github.io/news/highlights-of-2019/</guid>
       <description>In 2019 I&amp;hellip; my piece Incandescence was on the list of recommended works in the IV Uuno Klami Composition Competition</description>
     </item>
     
     <item>
       <title>Dawn Breaks Released</title>
-      <link>http://example.org/news/dawn-breaks-released/</link>
+      <link>https://mhynninen.github.io/news/dawn-breaks-released/</link>
       <pubDate>Fri, 11 Oct 2019 12:58:17 +0600</pubDate>
       
-      <guid>http://example.org/news/dawn-breaks-released/</guid>
+      <guid>https://mhynninen.github.io/news/dawn-breaks-released/</guid>
       <description>My new album Dawn Breaks featuring selected works with electronics was released today by Ravello Records. Dawn Breaks presents my</description>
     </item>
     
     <item>
       <title>Dawn Breaks</title>
-      <link>http://example.org/discography/dawn-breaks/</link>
+      <link>https://mhynninen.github.io/discography/dawn-breaks/</link>
       <pubDate>Fri, 11 Oct 2019 00:00:00 +0600</pubDate>
       
-      <guid>http://example.org/discography/dawn-breaks/</guid>
+      <guid>https://mhynninen.github.io/discography/dawn-breaks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Organ Music Released</title>
-      <link>http://example.org/news/organ-music-released/</link>
+      <link>https://mhynninen.github.io/news/organ-music-released/</link>
       <pubDate>Tue, 12 Mar 2019 12:58:17 +0600</pubDate>
       
-      <guid>http://example.org/news/organ-music-released/</guid>
+      <guid>https://mhynninen.github.io/news/organ-music-released/</guid>
       <description>Organist Susanne Kujala&amp;rsquo;s album Organ music of the 21st century featuring my piece Trois Mondes for organ and electronics was</description>
     </item>
     
     <item>
       <title>Organ Music of the 21st Century</title>
-      <link>http://example.org/discography/organ-music/</link>
+      <link>https://mhynninen.github.io/discography/organ-music/</link>
       <pubDate>Tue, 12 Mar 2019 00:00:00 +0600</pubDate>
       
-      <guid>http://example.org/discography/organ-music/</guid>
+      <guid>https://mhynninen.github.io/discography/organ-music/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ina Donna</title>
-      <link>http://example.org/works/electroacoustic/ina-donna/</link>
+      <link>https://mhynninen.github.io/works/electroacoustic/ina-donna/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0600</pubDate>
       
-      <guid>http://example.org/works/electroacoustic/ina-donna/</guid>
+      <guid>https://mhynninen.github.io/works/electroacoustic/ina-donna/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Little wings of gold</title>
-      <link>http://example.org/works/solo-instrument/little-wings-of-gold/</link>
+      <link>https://mhynninen.github.io/works/solo-instrument/little-wings-of-gold/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0600</pubDate>
       
-      <guid>http://example.org/works/solo-instrument/little-wings-of-gold/</guid>
+      <guid>https://mhynninen.github.io/works/solo-instrument/little-wings-of-gold/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flutterings</title>
-      <link>http://example.org/works/chamber-music/flutterings/</link>
+      <link>https://mhynninen.github.io/works/chamber-music/flutterings/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0600</pubDate>
       
-      <guid>http://example.org/works/chamber-music/flutterings/</guid>
+      <guid>https://mhynninen.github.io/works/chamber-music/flutterings/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Glow within</title>
-      <link>http://example.org/works/chamber-music/glow-within/</link>
+      <link>https://mhynninen.github.io/works/chamber-music/glow-within/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0600</pubDate>
       
-      <guid>http://example.org/works/chamber-music/glow-within/</guid>
+      <guid>https://mhynninen.github.io/works/chamber-music/glow-within/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Freedom from Fear</title>
-      <link>http://example.org/works/electroacoustic/freedom-from-fear/</link>
+      <link>https://mhynninen.github.io/works/electroacoustic/freedom-from-fear/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0600</pubDate>
       
-      <guid>http://example.org/works/electroacoustic/freedom-from-fear/</guid>
+      <guid>https://mhynninen.github.io/works/electroacoustic/freedom-from-fear/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Incandescence</title>
-      <link>http://example.org/works/orchestra/incandescence/</link>
+      <link>https://mhynninen.github.io/works/orchestra/incandescence/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0600</pubDate>
       
-      <guid>http://example.org/works/orchestra/incandescence/</guid>
+      <guid>https://mhynninen.github.io/works/orchestra/incandescence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lightness of the Days</title>
-      <link>http://example.org/works/chamber-music/lightness-of-the-days/</link>
+      <link>https://mhynninen.github.io/works/chamber-music/lightness-of-the-days/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0600</pubDate>
       
-      <guid>http://example.org/works/chamber-music/lightness-of-the-days/</guid>
+      <guid>https://mhynninen.github.io/works/chamber-music/lightness-of-the-days/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slutförvaringen - Kuinka puoliintuminen meitä liikuttaa</title>
-      <link>http://example.org/works/choir/slutforvaringen/</link>
+      <link>https://mhynninen.github.io/works/choir/slutforvaringen/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0600</pubDate>
       
-      <guid>http://example.org/works/choir/slutforvaringen/</guid>
+      <guid>https://mhynninen.github.io/works/choir/slutforvaringen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>...sicut aurora procedit</title>
-      <link>http://example.org/works/electroacoustic/sicut-aurora-procedit/</link>
+      <link>https://mhynninen.github.io/works/electroacoustic/sicut-aurora-procedit/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0600</pubDate>
       
-      <guid>http://example.org/works/electroacoustic/sicut-aurora-procedit/</guid>
+      <guid>https://mhynninen.github.io/works/electroacoustic/sicut-aurora-procedit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Aina on tänään - It is always today</title>
-      <link>http://example.org/works/electroacoustic/aina-on-tanaan/</link>
+      <link>https://mhynninen.github.io/works/electroacoustic/aina-on-tanaan/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0600</pubDate>
       
-      <guid>http://example.org/works/electroacoustic/aina-on-tanaan/</guid>
+      <guid>https://mhynninen.github.io/works/electroacoustic/aina-on-tanaan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Earthship</title>
-      <link>http://example.org/works/electroacoustic/earthship/</link>
+      <link>https://mhynninen.github.io/works/electroacoustic/earthship/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0600</pubDate>
       
-      <guid>http://example.org/works/electroacoustic/earthship/</guid>
+      <guid>https://mhynninen.github.io/works/electroacoustic/earthship/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Après tel février</title>
-      <link>http://example.org/works/electroacoustic/apres-tel-fevrier/</link>
+      <link>https://mhynninen.github.io/works/electroacoustic/apres-tel-fevrier/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0600</pubDate>
       
-      <guid>http://example.org/works/electroacoustic/apres-tel-fevrier/</guid>
+      <guid>https://mhynninen.github.io/works/electroacoustic/apres-tel-fevrier/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kuunteletko sinä</title>
-      <link>http://example.org/discography/kuunteletko-sina/</link>
+      <link>https://mhynninen.github.io/discography/kuunteletko-sina/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0600</pubDate>
       
-      <guid>http://example.org/discography/kuunteletko-sina/</guid>
+      <guid>https://mhynninen.github.io/discography/kuunteletko-sina/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New Holland</title>
-      <link>http://example.org/works/ensemble/new-holland/</link>
+      <link>https://mhynninen.github.io/works/ensemble/new-holland/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0600</pubDate>
       
-      <guid>http://example.org/works/ensemble/new-holland/</guid>
+      <guid>https://mhynninen.github.io/works/ensemble/new-holland/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Les arbres sans feuilles</title>
-      <link>http://example.org/works/solo-instrument/les-arbres-sans-feuilles/</link>
+      <link>https://mhynninen.github.io/works/solo-instrument/les-arbres-sans-feuilles/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0600</pubDate>
       
-      <guid>http://example.org/works/solo-instrument/les-arbres-sans-feuilles/</guid>
+      <guid>https://mhynninen.github.io/works/solo-instrument/les-arbres-sans-feuilles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mielen tasapainolajit</title>
-      <link>http://example.org/works/choir/mielen-tasapainolajit/</link>
+      <link>https://mhynninen.github.io/works/choir/mielen-tasapainolajit/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0600</pubDate>
       
-      <guid>http://example.org/works/choir/mielen-tasapainolajit/</guid>
+      <guid>https://mhynninen.github.io/works/choir/mielen-tasapainolajit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Borrowed Tunes: 1. Dead Man Theme</title>
-      <link>http://example.org/works/electroacoustic/borrowed-tunes/</link>
+      <link>https://mhynninen.github.io/works/electroacoustic/borrowed-tunes/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0600</pubDate>
       
-      <guid>http://example.org/works/electroacoustic/borrowed-tunes/</guid>
+      <guid>https://mhynninen.github.io/works/electroacoustic/borrowed-tunes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trois Mondes</title>
-      <link>http://example.org/works/electroacoustic/trois-mondes/</link>
+      <link>https://mhynninen.github.io/works/electroacoustic/trois-mondes/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0600</pubDate>
       
-      <guid>http://example.org/works/electroacoustic/trois-mondes/</guid>
+      <guid>https://mhynninen.github.io/works/electroacoustic/trois-mondes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Orlando-fragments</title>
-      <link>http://example.org/works/electroacoustic/orlando-fragments/</link>
+      <link>https://mhynninen.github.io/works/electroacoustic/orlando-fragments/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0600</pubDate>
       
-      <guid>http://example.org/works/electroacoustic/orlando-fragments/</guid>
+      <guid>https://mhynninen.github.io/works/electroacoustic/orlando-fragments/</guid>
       <description></description>
     </item>
     
     <item>
       <title>winnowing</title>
-      <link>http://example.org/works/electroacoustic/winnowing/</link>
+      <link>https://mhynninen.github.io/works/electroacoustic/winnowing/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0600</pubDate>
       
-      <guid>http://example.org/works/electroacoustic/winnowing/</guid>
+      <guid>https://mhynninen.github.io/works/electroacoustic/winnowing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pepper&#39;s ghost</title>
-      <link>http://example.org/works/ensemble/peppers-ghost/</link>
+      <link>https://mhynninen.github.io/works/ensemble/peppers-ghost/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0600</pubDate>
       
-      <guid>http://example.org/works/ensemble/peppers-ghost/</guid>
+      <guid>https://mhynninen.github.io/works/ensemble/peppers-ghost/</guid>
       <description></description>
     </item>
     

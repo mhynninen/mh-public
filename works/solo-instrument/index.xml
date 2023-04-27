@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Works | Maija Hynninen on Maija Hynninen</title>
-    <link>http://example.org/works/solo-instrument/</link>
+    <link>https://mhynninen.github.io/works/solo-instrument/</link>
     <description>Recent content in Works | Maija Hynninen on Maija Hynninen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 09 Mar 2023 10:35:06 +0600</lastBuildDate><atom:link href="http://example.org/works/solo-instrument/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Mar 2023 10:35:06 +0600</lastBuildDate><atom:link href="https://mhynninen.github.io/works/solo-instrument/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>wind rustling through</title>
-      <link>http://example.org/works/solo-instrument/wind-rustling-through/</link>
+      <link>https://mhynninen.github.io/works/solo-instrument/wind-rustling-through/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0600</pubDate>
       
-      <guid>http://example.org/works/solo-instrument/wind-rustling-through/</guid>
+      <guid>https://mhynninen.github.io/works/solo-instrument/wind-rustling-through/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Island</title>
-      <link>http://example.org/works/solo-instrument/island/</link>
+      <link>https://mhynninen.github.io/works/solo-instrument/island/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0600</pubDate>
       
-      <guid>http://example.org/works/solo-instrument/island/</guid>
+      <guid>https://mhynninen.github.io/works/solo-instrument/island/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Little wings of gold</title>
-      <link>http://example.org/works/solo-instrument/little-wings-of-gold/</link>
+      <link>https://mhynninen.github.io/works/solo-instrument/little-wings-of-gold/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0600</pubDate>
       
-      <guid>http://example.org/works/solo-instrument/little-wings-of-gold/</guid>
+      <guid>https://mhynninen.github.io/works/solo-instrument/little-wings-of-gold/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Les arbres sans feuilles</title>
-      <link>http://example.org/works/solo-instrument/les-arbres-sans-feuilles/</link>
+      <link>https://mhynninen.github.io/works/solo-instrument/les-arbres-sans-feuilles/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0600</pubDate>
       
-      <guid>http://example.org/works/solo-instrument/les-arbres-sans-feuilles/</guid>
+      <guid>https://mhynninen.github.io/works/solo-instrument/les-arbres-sans-feuilles/</guid>
       <description></description>
     </item>
     
