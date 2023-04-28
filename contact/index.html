@@ -119,6 +119,23 @@
     
   })();
 </script>
+<script type="text/javascript">
+  window.onload = function() {
+      document.getElementById('contact-form').addEventListener('submit', function(event) {
+          event.preventDefault();
+          emailjs.sendForm('contact_service', 'contact_form', this)
+              .then(function() {
+                  console.log('SUCCESS!');
+                  document.getElementById('contact-form').reset();
+                  document.getElementById("contact-form-button").style = "display: none ";
+                  document.getElementById("contact-form-status").innerHTML = "Thanks! Contact form is submitted successfully.";
+              }, function(error) {
+                  console.log('FAILED...', error);
+                  document.getElementById("contact-form-status").innerHTML = "Oops! There was a problem.";
+              });
+      });
+  }
+</script>
 
 <section class="site-contact">
   <div class="container">
