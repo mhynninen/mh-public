@@ -144,31 +144,36 @@
         
         <div class="col-lg-4 col-md-6 col-sm-12">
           <div class="site-press-photos-photo">
-            <img src="https://mhynninen.github.io/images/press/MaijaHynninen7627.jpg" alt="press-photo" class="hover-shadow cursor" onmouseenter="focusOnPhoto(event)" onmouseleave="noFocus()" onclick="openModal('images\/press\/MaijaHynninen7627.jpg', '© Maarit Kytöharju 2017')">
+            <img src="https://mhynninen.github.io/images/press/MaijaHynninen7627.jpg" alt="press-photo" class="hover-shadow cursor" onmouseenter="focusOnPhoto(event, 'images\/press\/MaijaHynninen7627.jpg')" onmouseleave="noFocus('images\/press\/MaijaHynninen7627.jpg')" onclick="openModal('images\/press\/MaijaHynninen7627.jpg', '© Maarit Kytöharju 2017')">
+            <div class="site-press-photos-photo-overlap" id="images/press/MaijaHynninen7627.jpg">© Maarit Kytöharju 2017</div>
           </div>
         </div>
         
         <div class="col-lg-4 col-md-6 col-sm-12">
           <div class="site-press-photos-photo">
-            <img src="https://mhynninen.github.io/images/press/MaijaHynninen7634.jpg" alt="press-photo" class="hover-shadow cursor" onmouseenter="focusOnPhoto(event)" onmouseleave="noFocus()" onclick="openModal('images\/press\/MaijaHynninen7634.jpg', '© Maarit Kytöharju 2017')">
+            <img src="https://mhynninen.github.io/images/press/MaijaHynninen7634.jpg" alt="press-photo" class="hover-shadow cursor" onmouseenter="focusOnPhoto(event, 'images\/press\/MaijaHynninen7634.jpg')" onmouseleave="noFocus('images\/press\/MaijaHynninen7634.jpg')" onclick="openModal('images\/press\/MaijaHynninen7634.jpg', '© Maarit Kytöharju 2017')">
+            <div class="site-press-photos-photo-overlap" id="images/press/MaijaHynninen7634.jpg">© Maarit Kytöharju 2017</div>
           </div>
         </div>
         
         <div class="col-lg-4 col-md-6 col-sm-12">
           <div class="site-press-photos-photo">
-            <img src="https://mhynninen.github.io/images/press/MaijaHynninen7705.jpg" alt="press-photo" class="hover-shadow cursor" onmouseenter="focusOnPhoto(event)" onmouseleave="noFocus()" onclick="openModal('images\/press\/MaijaHynninen7705.jpg', '© Maarit Kytöharju 2017')">
+            <img src="https://mhynninen.github.io/images/press/MaijaHynninen7705.jpg" alt="press-photo" class="hover-shadow cursor" onmouseenter="focusOnPhoto(event, 'images\/press\/MaijaHynninen7705.jpg')" onmouseleave="noFocus('images\/press\/MaijaHynninen7705.jpg')" onclick="openModal('images\/press\/MaijaHynninen7705.jpg', '© Maarit Kytöharju 2017')">
+            <div class="site-press-photos-photo-overlap" id="images/press/MaijaHynninen7705.jpg">© Maarit Kytöharju 2017</div>
           </div>
         </div>
         
         <div class="col-lg-4 col-md-6 col-sm-12">
           <div class="site-press-photos-photo">
-            <img src="https://mhynninen.github.io/images/press/MaijaHynninen7782.jpg" alt="press-photo" class="hover-shadow cursor" onmouseenter="focusOnPhoto(event)" onmouseleave="noFocus()" onclick="openModal('images\/press\/MaijaHynninen7782.jpg', '© Maarit Kytöharju 2017')">
+            <img src="https://mhynninen.github.io/images/press/MaijaHynninen7782.jpg" alt="press-photo" class="hover-shadow cursor" onmouseenter="focusOnPhoto(event, 'images\/press\/MaijaHynninen7782.jpg')" onmouseleave="noFocus('images\/press\/MaijaHynninen7782.jpg')" onclick="openModal('images\/press\/MaijaHynninen7782.jpg', '© Maarit Kytöharju 2017')">
+            <div class="site-press-photos-photo-overlap" id="images/press/MaijaHynninen7782.jpg">© Maarit Kytöharju 2017</div>
           </div>
         </div>
         
         <div class="col-lg-4 col-md-6 col-sm-12">
           <div class="site-press-photos-photo">
-            <img src="https://mhynninen.github.io/images/press/MaijaHynninen7815.jpg" alt="press-photo" class="hover-shadow cursor" onmouseenter="focusOnPhoto(event)" onmouseleave="noFocus()" onclick="openModal('images\/press\/MaijaHynninen7815.jpg', '© Maarit Kytöharju 2017')">
+            <img src="https://mhynninen.github.io/images/press/MaijaHynninen7815.jpg" alt="press-photo" class="hover-shadow cursor" onmouseenter="focusOnPhoto(event, 'images\/press\/MaijaHynninen7815.jpg')" onmouseleave="noFocus('images\/press\/MaijaHynninen7815.jpg')" onclick="openModal('images\/press\/MaijaHynninen7815.jpg', '© Maarit Kytöharju 2017')">
+            <div class="site-press-photos-photo-overlap" id="images/press/MaijaHynninen7815.jpg">© Maarit Kytöharju 2017</div>
           </div>
         </div>
         
@@ -242,7 +247,7 @@
 </div>
 
 <script>
-  function focusOnPhoto(e) {
+  function focusOnPhoto(e, imageName) {
     var elems = document.getElementsByClassName("hover-shadow cursor");
     var i;
     for (i = 0; i < elems.length; i++) {
@@ -250,13 +255,19 @@
         elems[i].style.opacity = 0.4;
       }
     }
+    if (screen.width <= 575) {
+      document.getElementById(imageName).style.display = "block";
+    }
   }
 
-  function noFocus() {
+  function noFocus(imageName) {
     var elems = document.getElementsByClassName("hover-shadow cursor");
     var i;
     for (i = 0; i < elems.length; i++) {
         elems[i].style.opacity = 1.0;
+    }
+    if (screen.width <= 575) {
+      document.getElementById(imageName).style.display = "none";
     }
   }
 

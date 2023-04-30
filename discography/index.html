@@ -321,12 +321,13 @@
   const indices = [4, 1, 0];
   const names = ["Dawn Breaks", "Organ Music of the 21st Century", "Kuunteletko sinä"];
 
-  if (screen.width <= 768 && screen.width > 575) {
-    var firsts = document.getElementById(names[1]).getElementsByTagName("h4");
-    var seconds = document.getElementById(names[2]).getElementsByTagName("h4");
+  if (screen.width <= 991 && screen.width > 767) {
+    var firsts = document.getElementById(names[1]).getElementsByTagName("h5");
+    var seconds = document.getElementById(names[2]).getElementsByTagName("h5");
     for (i = 0; i < firsts.length; i++) {
-      firsts[i].style.marginTop = "25px";
-      seconds[i].style.marginTop = "70px";
+      firsts[i].style.marginBottom = "5px";
+      firsts[i].style.marginTop = "13px";
+      seconds[i].style.marginBottom = "35px";
     }
   }
 
